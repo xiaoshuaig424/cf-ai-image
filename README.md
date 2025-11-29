@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Text2img · Cloudflare Workers</h1>
   <p>基于 Cloudflare Workers AI 的在线文生图/图生图/重绘服务，开箱即用。</p>
-  <p>本项目基于 [huarzone/Text2img-Cloudflare-Workers](https://github.com/huarzone/Text2img-Cloudflare-Workers、[zhumengkang/cf-ai-image](https://github.com/zhumengkang/cf-ai-image) 进行二次开发和功能增强。</p>
+  <p>本项目基于 [huarzone/Text2img-Cloudflare-Workers](https://github.com/huarzone/Text2img-Cloudflare-Workers)、[zhumengkang/cf-ai-image](https://github.com/zhumengkang/cf-ai-image) 进行二次开发和功能增强。</p>
 </div>
 
 <picture>
